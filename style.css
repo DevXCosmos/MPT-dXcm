@@ -4,7 +4,6 @@
 
 body{
 background-color: rgb(0, 0, 0);
-overflow: hidden;
     user-select: none;
 }
 .container{
